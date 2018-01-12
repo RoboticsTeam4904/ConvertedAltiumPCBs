@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MK66FX1M0VLQ18
+D NXP - MK66FX1M0VLQ18 - MPU, ARM CORTEX-M4F, 180MHZ, LQFP-144
+K
+F https://cache.nxp.com/docs/en/data-sheet/K66P144M180SF5V2.pdf
+$ENDCMP
+#
+#End Doc Library
