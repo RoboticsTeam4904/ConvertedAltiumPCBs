@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=B? NewDesignator=MKL02
+Change Component Designator: OldDesignator=B? NewDesignator=TPD3
+Change Component Designator: OldDesignator=C? NewDesignator=initialLP3cap
+Change Component Designator: OldDesignator=C? NewDesignator=LP3diodecap
+Change Component Designator: OldDesignator=C? NewDesignator=USBcap
+Change Component Designator: OldDesignator=D? NewDesignator=LP3diode1
+Change Component Designator: OldDesignator=D? NewDesignator=LP3diode2
+Change Net Name : Old Net Name=NetB?_1 New Net Name=NetB?_9
+Change Net Name : Old Net Name=NetB?_3 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetB?_4 New Net Name=NetC?_1
+Change Net Name : Old Net Name=NetB?_6 New Net Name=NetB?_51
+Change Net Name : Old Net Name=NetB?_9 New Net Name=NetB?_52
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetL?_2
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component D? LED0
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component D? Diode
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component initialLP3cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component LP3diode1 Diode
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component LP3diode2 Diode
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component LP3diodecap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component MKL02 MKL02Z32VFG4
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 2H
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 30
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 30
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component TPD3 TPD3S014DBVR
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component USBcap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component Y? R145-32.768
+Added Room: Name=Teensywpinsfinal

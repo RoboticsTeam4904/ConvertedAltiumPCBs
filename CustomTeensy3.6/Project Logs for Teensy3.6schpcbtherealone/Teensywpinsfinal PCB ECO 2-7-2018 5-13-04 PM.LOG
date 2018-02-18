@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J? NewDesignator=usba
+Change Component Designator: OldDesignator=R? NewDesignator=33ads
+Change Component Designator: OldDesignator=R? NewDesignator=33adsf
+Change Net Name : Old Net Name=NetB?_19 New Net Name=Net33ads_2
+Change Net Name : Old Net Name=NetB?_20 New Net Name=Net33adsf_2
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=Net33adsf_1
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=Net33ads_1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component 33adsf Res1

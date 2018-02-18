@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=dapthingy Old Footprint=HDR1X4 New Footprint=SOP254P1020X947-4N
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 632723100011
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 629105150521
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor2
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor5
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor8
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor6
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor4
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor3
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component Y? R145-32.768
+Added Room: Name=Teensywpinsfinal

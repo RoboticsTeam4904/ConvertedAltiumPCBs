@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=J? NewDesignator=usbc
+Change Component Designator: OldDesignator=J? NewDesignator=uscbc
+Change Component Designator: OldDesignator=P? NewDesignator=sens1
+Change Component Designator: OldDesignator=P? NewDesignator=sens2
+Change Component Designator: OldDesignator=P? NewDesignator=sens3
+Change Component Designator: OldDesignator=P? NewDesignator=sens4
+Change Component Designator: OldDesignator=P? NewDesignator=sens5
+Change Component Designator: OldDesignator=P? NewDesignator=sens6
+Change Component Designator: OldDesignator=P? NewDesignator=sens7
+Change Component Designator: OldDesignator=P? NewDesignator=sesn8
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens2 Sensor2
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens3 Sensor3
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens4 Sensor5
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens5 Sensor4
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens6 Sensor6
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sens7 Sensor7
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component sesn8 Sensor8
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component usbc 632723100011
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component uscbc 632723100011

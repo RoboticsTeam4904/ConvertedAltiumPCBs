@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=AREF cap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=b42ndincudcor Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=capcahin1 Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=capchain2 Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=capchain4 Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=capchin3 Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=Dpad?cap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=initialLP3cap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=LP3diodecap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=next AREF cap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=TPD3capfromLP3 Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=USBcap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=VBAT diode cap Old Footprint=CAPC2012X06N New Footprint=INDC2012X06N
+Change Component Footprint: Designator=onlyTPD3cap Old Footprint=INDC6050X06N New Footprint=INDC3225X06N
+Change Component Designator: OldDesignator=Team 4904 Bot Provoking NewDesignator=2nd inductor
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component 2nd inductor Inductor

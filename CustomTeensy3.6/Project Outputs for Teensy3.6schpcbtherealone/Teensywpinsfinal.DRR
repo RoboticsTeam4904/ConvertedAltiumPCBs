@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Teensywpinsfinal.PcbDoc   2/15/2018  5:20:02 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Teensywpinsfinal-RoundHoles.TXT
+ASCII SlotHoles File : Teensywpinsfinal-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             28        PTH        1.33inch (33.77mm)
+T2      20mil (0.5mm)                                             Round             4         PTH        0.90inch (22.94mm)
+T3      22mil (0.551mm)                                           Slot              2         PTH        0.66inch (16.83mm)
+T4      24mil (0.599mm)                                           Slot              8         PTH        3.16inch (80.24mm)
+T5      30mil (0.762mm)                                           Round             35        PTH        10.77inch (273.57mm)
+T6      34mil (0.851mm)                                           Slot              2         PTH        0.63inch (16.02mm)
+T7      35mil (0.899mm)                                           Round             36        PTH        6.26inch (159.07mm)
+T8      32mil (0.8mm)                                             Round             2         NPTH       0.20inch (5.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              117
+
+Total Processing Time (hh:mm:ss) : 00:00:00

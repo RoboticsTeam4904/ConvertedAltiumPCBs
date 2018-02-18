@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Teensy3.6schpcbtherealone.PrjPcb]
+   Generated File[Teensywpinsfinal-RoundHoles.TXT]
+   Generated File[Teensywpinsfinal-SlotHoles.TXT]
+   Generated File[Teensywpinsfinal.LDP]
+   Generated File[Teensywpinsfinal.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:20:02 PM On 2/15/2018

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=VBAT diode
+Change Component Designator: OldDesignator=4904 Bot-Provoking NewDesignator=2nd inductor
+Change Component Designator: OldDesignator=BP-E-1003-01 NewDesignator=LED2
+Change Component Designator: OldDesignator=Sensor1 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor2 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor3 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor4 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor5 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor6 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor7 NewDesignator=P?
+Change Component Designator: OldDesignator=Sensor8 NewDesignator=P?
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 632723100011
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 629105150521
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component Y? R145-32.768
+Added Room: Name=Teensywpinsfinal

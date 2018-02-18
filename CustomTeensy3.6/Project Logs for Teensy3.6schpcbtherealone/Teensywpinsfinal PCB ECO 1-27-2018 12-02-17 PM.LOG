@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=C? NewDesignator=AREF cap
+Change Component Designator: OldDesignator=C? NewDesignator=Dpad?cap
+Change Component Designator: OldDesignator=C? NewDesignator=next AREF cap
+Change Component Designator: OldDesignator=C? NewDesignator=onlyTPD3cap
+Change Component Designator: OldDesignator=C? NewDesignator=TPD3capfromLP3
+Change Component Designator: OldDesignator=C? NewDesignator=VBAT diode cap
+Change Component Designator: OldDesignator=D? NewDesignator=VBAT diode
+Change Component Designator: OldDesignator=D? NewDesignator=VBAT diode friend
+Change Component Designator: OldDesignator=L? NewDesignator=LP3inductor
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetLP3_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetonlyTPD3cap_1
+Change Net Name : Old Net Name=NetL?_2 New Net Name=NetLP3diode1_1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component AREF cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component C? Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component Dpad?cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component next AREF cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component onlyTPD3cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 2H
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 30
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Header 30
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component TPD3capfromLP3 Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component VBAT diode cap Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component VBAT diode friend Diode
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component VBAT diode Diode
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component Y? R145-32.768
+Added Room: Name=Teensywpinsfinal

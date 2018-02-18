@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=C? NewDesignator=b42ndincudcor
+Change Component Designator: OldDesignator=C? NewDesignator=capcahin1
+Change Component Designator: OldDesignator=C? NewDesignator=capchain2
+Change Component Designator: OldDesignator=C? NewDesignator=capchain4
+Change Component Designator: OldDesignator=C? NewDesignator=capchin3
+Change Component Designator: OldDesignator=Y? NewDesignator=osc2
+Change Net Name : Old Net Name=NetB?_31 New Net Name=Netb42ndincudcor_1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component b42ndincudcor Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component capchain2 Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component capchain4 Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component capchin3 Cap
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 632723100011
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component J? 629105150521
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component osc2 R145-32.768
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor2
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor5
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor8
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor6
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor4
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor3
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component P? Sensor1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Member To Class: ClassName=Teensywpinsfinal Member=Component R? Res1
+Added Room: Name=Teensywpinsfinal
